@@ -44,14 +44,14 @@ button {
 }
 
 .btn-delete button {
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   background-color: #f56c6c;
   border-color: #f56c6c;
   color: #FFFFFF;
-  text-align: center;
   border-radius: 50%;
-  font-weight: bold
+  font-weight: bold;
+  font-size: 5px;
 }
 
 .todo-list .item-wrapper:hover {
